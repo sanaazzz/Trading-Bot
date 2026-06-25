@@ -10,4 +10,4 @@ Automated trading bot for cryptocurrency markets.
 ```bash
 git clone https://github.com/username/crypto-trading-bot.git
 cd crypto-trading-bot
-pip install -r requirements.txt
+pip install -r requirements
