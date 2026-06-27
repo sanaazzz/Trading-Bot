@@ -1,5 +1,5 @@
 # Trading-Bot
-# Crypto Trading Bot
+#Trading Bot
 Automated trading bot for cryptocurrency markets.
 ## Features
 - Multi-timeframe analysis
