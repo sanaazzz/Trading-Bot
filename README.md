@@ -4,7 +4,7 @@ Automated trading bot for cryptocurrency markets.
 ## Features
 - Multi-timeframe analysis
 - Telegram notifications
-- Backtesting support
+- Backtesting 
 - Paper trading mode
 ## Installation
 ```bash
