@@ -1,12 +1,12 @@
-# Trading-Bot
+#Trading-Bot
 #Trading Bot
 Automated trading bot for cryptocurrency markets.
-## Features
+##Features
 - Multi-timeframe analysis
 - Telegram notifications
 - Backtesting 
 - Paper trading mode
-## Installation
+##Installation
 ```bash
 git clone https://github.com/username/crypto-trading-bot.git
 cd crypto-trading-bot
